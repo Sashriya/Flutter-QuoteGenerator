@@ -20,13 +20,21 @@ class QuotesHome extends StatefulWidget {
 
 class _QuoteHomeState extends State<QuotesHome> {
   final quotes = [
-    "If you can't feel the real pain, you can't feel the real peace",
+    "Feel pain, Accept pain and know pain. Those who do not know pain will never understand the true peace.",
     "Believe in yourself.",
     "Dream big, start small.",
     "Happiness is homemade.",
     "It does not matter how slowly you go as long as you do not stop.",
     "Success is the sum of small efforts, repeated day in and day out.",
     "A one-hour workout is 4% of your day. No excuses",
+    "The only thing is can trusted is Money.",
+    "The world forgets the week and remembers the strong.",
+    "Wake up to reality, Nothing ever goes as planned in this Accursed World."
+    "The Longer you Live, The more you will realize that the only things that truly exist in this reality are merely PAIN, SUFFERING, FUTILITY.",
+    "EveryWhere you Look in this World, Wherever there is Light There will always be shadows to be Found.",
+    "As Well As Long as There is a Concept of Victors, The Vanquished will also Exist."
+    "The selfish intent of wanting to Preserve Peace initiates Wars and Hatred is Born, In oredered to Protect LOVE.",
+    "There are Nexuses, Casual Relationships that cannot be seperated."
   ];
 
   String currentQuote = "";
